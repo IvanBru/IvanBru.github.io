@@ -140,6 +140,7 @@ hr{
 @media (max-width: 768px){
 	.films{
 		width: 100%;
+		font-size: 0.8em;
 	}
 	.list-group img{
 
@@ -153,9 +154,7 @@ hr{
 	.carousel{
 	width: 100%;
 	}
-	.fims{
-	font-size: 1em;
-	}
+
 
 
 }
