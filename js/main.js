@@ -15,7 +15,7 @@ document.getElementById('change').onclick = function() {
   document.getElementById('container').classList.toggle('bg-dark');
   document.getElementById('table').classList.toggle('table-dark');
   document.getElementById('myfilms').classList.toggle('dark');
-  document.getElementById('Model').classList.toggle('dark');
+  document.getElementById('Model3d').classList.toggle('dark');
    var nav = document.getElementById('change');
 	switch (nav.innerHTML) {
 	case 'Dark': nav.innerHTML = 'Light'; break;
